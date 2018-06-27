@@ -1,5 +1,5 @@
 # WordPress Interview Task
-Create a WordPress plugin to manage movies. (OOP Approach)
+Create a WordPress plugin to manage movies. (#OOP Approach/Technique)
 
 Task Description:
 
